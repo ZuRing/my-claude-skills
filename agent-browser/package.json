@@ -43,5 +43,7 @@
     "url": "https://github.com/vercel-labs/agent-browser/issues"
   },
   "homepage": "https://agent-browser.dev",
-  "devDependencies": {}
+  "dependencies": {
+    "agent-browser": "^0.26.0"
+  }
 }
